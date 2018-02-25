@@ -1,0 +1,135 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing:border-box;
+	webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	font-family: Arial, sans-serif;
+}
+
+body {
+	background: #f1f1f1;
+}
+
+main {
+	padding-top: 40px;
+}
+
+    /*  SEARCH  */
+
+form {
+	margin: 0 auto;
+	position: relative;
+	width: 80%;
+}
+
+input {
+	width: 100%;
+	font-weight: bold;
+	background: transparent;
+	border: none;
+	font-size: 80px;
+	color: #ec5a62;
+	outline: none;
+}
+
+input[type="search"]::-moz-placeholder {
+    color: #c2c2c2;
+}
+
+input[type="search"]::-webkit-input-placeholder {
+ 	color:  #c2c2c2;
+ }
+	/*  УБРАЛ КРЕСТИК ПРИ ВВОДЕ ТЕКСТА В ПОИСК */
+ input::-webkit-search-decoration,
+ input::-webkit-search-cancel-button,
+ input::-webkit-search-results-button,
+ input::-webkit-search-results-decoration { display: none; }
+
+button[type="submit"] {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	right: 0;
+	top: 5%;
+	background: url(../images/magnifer.svg) ;
+	border: none;
+	outline:none;
+	cursor: pointer;
+}
+
+button:hover {
+	width: 90px;
+	height: 90px;
+}
+
+button:active {
+	width: 80px;
+	height: 80px;
+}
+
+	/*  /SEARCH  */
+
+	/*  MAIN  */
+
+div {
+	color: #C2C2C2;
+	margin-top: 40px;
+	padding: 0 10%;
+}
+
+aside {
+    width: 33%;
+    display: inline-block
+}
+
+h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+ul {
+	width: 90%;
+}
+
+li {
+	list-style-type: none;
+}
+
+a {
+	padding: 10px;
+	margin:  10px 0;
+	display: block;
+	cursor: pointer;
+	border-radius: 15px;
+	background: rgba(118,117,128,0.05);
+	color: #c2c2c2;
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+a:hover{
+	background: rgba(118,117,128,0.1);
+	color: #ec5a62;
+}
+
+.ul_first  img {
+	border-radius: 50%;
+}
+
+img {
+	display: inline-block;
+	width: 50px;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+
+p {
+	vertical-align: middle;
+	display: inline-block;
+	width: 76%;
+	font-size: 15px;
+}
+
+	/* /MAIN */
