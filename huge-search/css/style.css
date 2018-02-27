@@ -32,7 +32,7 @@ input {
 	font-size: 80px;
 	color: #ec5a62;
 	outline: none;
-	padding-right: 63px;
+	padding-right: 80px;
 }
 
 input[type="search"]::-moz-placeholder {
