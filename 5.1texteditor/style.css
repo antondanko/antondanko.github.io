@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400|Playfair+Display');
+
+body {
+	background-color: rgb(255, 255, 255);
+}
+
+main {
+	box-sizing:border-box;
+	webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	width: 900px;
+	height: 600px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	background-color: rgb(255, 255, 255);
+	box-shadow: 0px 4px 68px 0px rgba(0, 0, 0, 0.1);
+	padding-left: 95px;
+	padding-right: 95px;
+	padding-top: ;
+	padding-bottom: ;
+}
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+}
+p {
+	font-family: 'Lato', sans-serif;
+	color: rgba(23, 23, 23, 0.702);
+	font-weight: 300;
+	font-size: 15px;
+	line-height: 19px;
+	margin-bottom: 30px
+}
+
+
+.first-letter:first-letter {
+	font-family: 'Playfair Display', serif;
+	font-size: 75px;
+	line-height: 40px;
+	color: rgb(23, 23, 23);
+	float: left;
+	margin-right: 10px;
+}
+
+.last-child {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 25px;
+	font-style: italic;
+}
+
+span {
+	font-size: 65px;
+}
+
+button {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	letter-spacing: 3px;
+	color: rgb(234, 162, 88);
+	border: 2px solid rgb(234, 162, 88);
+	width: 210px;
+	height: 50px;
+	text-transform: uppercase;
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	outline: none;
+}
+
+button:hover {
+	font-size: 17px;
+}
+
+button:active {
+ 	color: rgb(255, 255, 255) ;
+ 	background-color: rgb(234, 162, 88);
+ }
