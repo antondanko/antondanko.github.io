@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Payment form</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<main>
+		<section>
+			<div class="header">
+				<div class="header__left">
+					<span>Harold Finch</span>
+					<span>Your total</span>
+				</div>
+				<div class="header__right">
+					<span>$88</span>
+				</div>
+			</div>
+			<div class="payment-form">
+				<form id="payment_form" method="post" action="#">
+					<label for="credit">Credit card number
+						<input type="text" name="credit" id="credit" placeholder="4321 4321 4321 4321" maxlength="16" pattern="^[0-9]{16}" class="payment-form__credit">
+					</label>
+					<label for="month">Expiration date</label>
+					<div class="payment-form__experation">
+						<select name="month" id="month" required class="payment-form__month">
+							<option value="" selected disabled hidden>Month</option>
+							<option value="1">01</option>
+							<option value="2">02</option>
+							<option value="3">03</option>
+							<option value="4">04</option>
+							<option value="5">05</option>
+							<option value="6">06</option>
+							<option value="7">07</option>
+							<option value="8">08</option>
+							<option value="9">09</option>
+							<option value="10">10</option>
+							<option value="11">11</option>
+							<option value="12">12</option>
+						</select>
+						<select name="year" id="year" required class="payment-form__year">
+							<option value="" selected disabled hidden>Year</option>
+							<option value="2018">2018</option>
+							<option value="2019">2019</option>
+							<option value="2020">2020</option>
+							<option value="2021">2021</option>
+						</select>
+					</div>
+					<label for="cvv">CVV<br>
+						<input type="text" name="cvv" id="cvv" class="payment-form_cvv" maxlength="4" pattern="^[0-9]{3,}" required> 3 or 4 digits - <a href="#">viev example</a>
+					</label>
+					<div class="payment-form__hr"></div>
+					<button class="payment-form__button">Pay</button>
+					<!-- <input type="submit" value="Pay"> -->
+					<div class="payment-form__cancel">
+						<a href="#">Cancel order</a>
+					</div>
+				</form>
+			</div>
+		</section>
+	</main>
+</body>
+</html>
