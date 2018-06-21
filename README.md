@@ -7,9 +7,13 @@
 Проекти:
 
 exam_with_foundation/dist/  - останній екзамен
+
 2css-diner-shopping-list
+
 3css-weather-forecast
+
 5.1texteditor
+
 5text-editor
 6starter-simple-master
 7foliac
