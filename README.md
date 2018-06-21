@@ -8,6 +8,10 @@
 
 exam_with_foundation/dist/  - останній екзамен
 
+ba-exam2__danko - другий екзамен  
+
+ba-exam_danko - перший екзамен
+
 2css-diner-shopping-list
 
 3css-weather-forecast
@@ -37,9 +41,5 @@ exam_with_foundation/dist/  - останній екзамен
 huge-search
 
 js/div_to_textarea
-
-ba-exam_danko - перший екзамен
-
-ba-exam2__danko - другий екзамен  
 
 Код цих проектів можна переглянути тут https://github.com/antondanko/antondanko.github.io
