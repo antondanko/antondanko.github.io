@@ -42,3 +42,4 @@ ba-exam_danko - перший екзамен
 
 ba-exam2__danko - другий екзамен  
 
+Код даних проектів можна переглянути тут https://github.com/antondanko/antondanko.github.io
