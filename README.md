@@ -23,4 +23,4 @@ exam_with_foundation/dist/  - останній екзамен
 huge-search
 js/div_to_textarea
 ba-exam_danko - перший екзамен
-ba-exam2__danko - другий екзамен
+ba-exam2__danko - другий екзамен 
