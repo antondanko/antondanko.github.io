@@ -4,7 +4,7 @@
 
 ### Екзаменаційні проекти:
 
-* [Останній екзамен](https://antondanko.github.io/exam_with_foundation/dist/) [Код тут](https://github.com/antondanko/exam_with_foundation) 
+* [Останній екзамен](https://antondanko.github.io/exam_with_foundation/dist/) > [Код тут](https://github.com/antondanko/exam_with_foundation) 
 
 * [Другий екзамен](https://antondanko.github.io/ba-exam2__danko)
 
