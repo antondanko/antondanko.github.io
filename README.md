@@ -16,9 +16,9 @@
 
 [Css weather forecast](https://antondanko.github.io/3css-weather-forecast)
 
-[texteditor](https://antondanko.github.io/5.1texteditor)
+[Texteditor](https://antondanko.github.io/5.1texteditor)
 
-[text-editor2](https://antondanko.github.io/5text-editor)
+[Text-editor2](https://antondanko.github.io/5text-editor)
 
 [Starter simple master](https://antondanko.github.io/6starter-simple-master)
 
