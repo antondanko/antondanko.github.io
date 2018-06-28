@@ -16,9 +16,9 @@
 
 * [Css weather forecast](https://antondanko.github.io/3css-weather-forecast)
 
-* [Texteditor](https://antondanko.github.io/5.1texteditor)
+* [Text editor](https://antondanko.github.io/5.1texteditor)
 
-* [Text-editor2](https://antondanko.github.io/5text-editor)
+* [Text editor2](https://antondanko.github.io/5text-editor)
 
 * [Starter simple master](https://antondanko.github.io/6starter-simple-master)
 
@@ -30,11 +30,11 @@
 
 * [Nike productcard dark](https://antondanko.github.io/10nike_productcard_dark)
 
-* [Payment_form](https://antondanko.github.io/11payment_form)
+* [Payment form](https://antondanko.github.io/11payment_form)
 
-* [Daily_form](https://antondanko.github.io/12daily_form)
+* [Daily form](https://antondanko.github.io/12daily_form)
 
-* [Image_grid](https://antondanko.github.io/13image_grid)
+* [Image grid](https://antondanko.github.io/13image_grid)
 
 * [Cahee](https://antondanko.github.io/17Cahee)
 
