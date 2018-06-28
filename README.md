@@ -42,4 +42,4 @@
 
 * [JS div to textarea](https://antondanko.github.io/js/div_to_textarea)
 
-### [Код цих проектів можна переглянути тут](https://github.com/antondanko/antondanko.github.io)
+### [Код цих робіт можна переглянути тут](https://github.com/antondanko/antondanko.github.io)
