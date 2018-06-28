@@ -1,8 +1,8 @@
 # antondanko.github.io
 
-##Практичні роботи з курсу front end школи [Beetroot Academy Chernihiv](https://beetroot.academy/uk/locations/chernihiv/).
+## Практичні роботи з курсу front end школи [Beetroot Academy Chernihiv](https://beetroot.academy/uk/locations/chernihiv/).
 
-###Екзаменаційні проекти:
+### Екзаменаційні проекти:
 
 [Останній екзамен](https://antondanko.github.io/exam_with_foundation/dist/)
 
@@ -10,7 +10,7 @@
 
 [Перший екзамен](https://antondanko.github.io/ba-exam_danko)
 
-###Проміжні проекти:
+### Проміжні проекти:
 
 [Css diner shopping list](https://antondanko.github.io/2css-diner-shopping-list)
 
@@ -42,4 +42,4 @@
 
 [JS div to textarea](https://antondanko.github.io/js/div_to_textarea)
 
-###[Код цих проектів можна переглянути тут](https://github.com/antondanko/antondanko.github.io)
+### [Код цих проектів можна переглянути тут](https://github.com/antondanko/antondanko.github.io)
