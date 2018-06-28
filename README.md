@@ -6,7 +6,7 @@
 
 Проекти:
 
-exam_with_foundation/dist/  - останній екзамен
+https://antondanko.github.io/exam_with_foundation/dist/  - останній екзамен
 
 ba-exam2__danko - другий екзамен  
 
