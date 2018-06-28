@@ -4,48 +4,44 @@
 
 Для перегляду antondanko.github.io/назва_проекту
 
-Проекти:
+Екзаменаційні проекти:
 
-https://antondanko.github.io/exam_with_foundation/dist/  - останній екзамен
+[Останній екзамен](https://antondanko.github.io/exam_with_foundation/dist/)
 
 [Другий екзамен](https://antondanko.github.io/ba-exam2__danko)
 
-ba-exam_danko - перший екзамен
+[Перший екзамен](https://antondanko.github.io/ba-exam_danko)
 
-2css-diner-shopping-list
+Проміжні проекти:
 
-3css-weather-forecast
+[Css diner shopping list](https://antondanko.github.io/2css-diner-shopping-list)
 
-5.1texteditor
+[Css weather forecast](https://antondanko.github.io/3css-weather-forecast)
 
-5text-editor
+[texteditor](https://antondanko.github.io/5.1texteditor)
 
-6starter-simple-master
+[text-editor2](https://antondanko.github.io/5text-editor)
 
-7foliac
+[Starter simple master](https://antondanko.github.io/6starter-simple-master)
 
-8productman
+[Foliac](https://antondanko.github.io/7foliac)
 
-9nike_product_card
+[Productman](https://antondanko.github.io/8productman)
 
-10nike_productcard_dark
+[Nike product card](https://antondanko.github.io/9nike_product_card)
 
-11payment_form
+[Nike productcard dark](https://antondanko.github.io/10nike_productcard_dark)
 
-12daily_form
+[Payment_form](https://antondanko.github.io/11payment_form)
 
-13image_grid
+[Daily_form](https://antondanko.github.io/12daily_form)
 
-17Cahee
+[Image_grid](https://antondanko.github.io/13image_grid)
 
-huge-search
+[Cahee](https://antondanko.github.io/17Cahee)
 
-js/div_to_textarea
+[Huge search](https://antondanko.github.io/huge-search)
 
-This is [an example](http://www.example.com/) inline link.
-
-[This link](http://example.com/ "Title") has a title attribute.
-
-Links are also auto-detected in text: http://example.com/
+[JS div to textarea](https://antondanko.github.io/js/div_to_textarea)
 
 Код цих проектів можна переглянути тут https://github.com/antondanko/antondanko.github.io
