@@ -8,7 +8,7 @@
 
 https://antondanko.github.io/exam_with_foundation/dist/  - останній екзамен
 
-ba-exam2__danko - другий екзамен  
+[Другий екзамен](https://antondanko.github.io/ba-exam2__danko)
 
 ba-exam_danko - перший екзамен
 
